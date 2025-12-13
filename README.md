@@ -47,8 +47,8 @@
 
   <h3>📫 Connect with me</h3>
   <p>
-    <a href="https://linkedin.com/in/your-profile">LinkedIn</a> • 
-    <a href="mailto:your-email@example.com">Email</a>
+    <a href="linkedin.com/in/jimuelle-patron-686454385/">LinkedIn</a> • 
+    <a href="mailto:patronjimuelle26@gmail.com">Email</a>
   </p>
 
 </div>
