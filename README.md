@@ -1,16 +1,23 @@
-## Hi there 👋
+const leo = {
+    role: "CS Student @ PUP",
+    year: "Freshman",
+    current_focus: ["Data Science", "Machine Learning"],
+    leadership: {
+        aws_cloud_club: "Co-Lead (Data Engineering)",
+        datacamp: "Manager (2025-2026)"
+    },
+    passion: "Democratizing tech through teaching",
+    goal: "Building scalable data architectures & smart models"
+};
 
-<!--
-**Jimuelle07/Jimuelle07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🚀 About Me
+🎓 CS Student | ☁️ Cloud Enthusiast | 📊 Data Geek
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a freshman Computer Science student bridging the gap between Software Engineering and Data Science. My journey is defined by learning, building, and teaching.
+
+☁️ AWS Cloud Club PUP: Shaping the next generation of cloud architects as the Data Engineering Co-Lead.
+
+📚 DataCamp Manager: Leading data literacy initiatives for the 2025-2026 term.
+
+💡 Interests: Machine Learning, Cloud Infrastructure, and Technical Education.
