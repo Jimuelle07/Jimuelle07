@@ -1,17 +1,35 @@
 <div align="center">
 
-  <h1>Hi, I'm Jimuelle! 👋</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Jimuelle!;CS+Freshman+%40+PUP;Data+Eng.+Lead+%40+AWS;DataCamp+Manager" alt="Typing SVG" />
+  </a>
   
-  <h3>CS Freshman @ PUP | AWS Cloud Club Co-Lead | DataCamp Manager</h3>
+  <br/>
 
-  <p>
-    I am bridging the gap between <b>Software Engineering</b> and <b>Data Science</b>.<br>
-    My goal is to democratize tech through teaching while building scalable cloud architectures.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&fontSize=0" width="100%" />
+  
+  <h2 align="center">👾 MISSION LOG</h2>
+
+  <p align="left">
+    &nbsp;&nbsp;&nbsp;&nbsp;🎓 <b>CURRENT QUEST</b><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;Pursuing a BS in <b>Computer Science</b> at the <b>Polytechnic University of the Philippines</b>.
   </p>
+
+  <p align="left">
+    &nbsp;&nbsp;&nbsp;&nbsp;🔭 <b>MAIN OBJECTIVE</b><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;To bridge the gap between <b>Software Engineering</b> and <b>Data Science</b>. I don't just write code; I build scalable pipelines that turn raw data into intelligence.
+  </p>
+
+  <p align="left">
+    &nbsp;&nbsp;&nbsp;&nbsp;🤝 <b>GUILD AFFILIATIONS (Leadership)</b><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;Democratizing tech education as the <b>Data Eng. Lead @ AWS Cloud Club</b> and <b>DataCamp Manager</b>.
+  </p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&fontSize=0" width="100%" />
 
   <br />
 
-  <h3>🛠️ My Tech Stack</h3>
+  <h3>🛠️ INVENTORY (Tech Stack)</h3>
 
   <p><b>Languages</b></p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -39,16 +57,21 @@
 
   <br />
 
-  <h3>🚀 Leadership & Community</h3>
+  <h3>🚀 ACHIEVEMENTS</h3>
   <img src="https://img.shields.io/badge/AWS_Cloud_Club-Data_Engineering_Lead-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/DataCamp-Manager_2025--26-03E862?style=flat-square&logo=datacamp&logoColor=white" />
 
   <br /><br />
 
-  <h3>📫 Connect with me</h3>
+  <h3>📫 START CHAT</h3>
   <p>
-    <a href="linkedin.com/in/jimuelle-patron-686454385/">LinkedIn</a> • 
-    <a href="mailto:patronjimuelle26@gmail.com">Email</a>
+    <a href="https://www.linkedin.com/in/jimuelle-patron-686454385/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:patronjimuelle26@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
   </p>
 
 </div>
