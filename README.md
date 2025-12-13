@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2b5876&height=180&section=header&text=DATA%20ENGINEER%20IN%20TRAINING&fontSize=40&fontColor=ffffff&fontAlign=50&animation=fadeIn" width="100%" />
 </div>
 
-<h1 align="center">Hi there, I'm Jimmuelle! 👋</h1>
+<h1 align="center">Hi there, I'm Jimuelle! 👋</h1>
 <p align="center">
   <b>CS Freshman @ PUP</b> • <b>AWS Cloud Club Co-Lead</b> • <b>DataCamp Manager</b>
 </p>
