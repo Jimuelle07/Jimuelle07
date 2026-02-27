@@ -19,21 +19,6 @@ Data-focused Computer Science student with a strong foundation in building autom
 
 ---
 
-### 🚀 Featured Projects
-
-#### [RAG API Development](https://github.com/your-username/repo-name)
-* Built a Retrieval-Augmented Generation API using **FastAPI** and **ChromaDB**.
-* Engineered vector embedding pipelines for localized LLM training and document retrieval.
-
-#### [Automated LinkedIn Scraper](https://github.com/your-username/repo-name)
-* Developed a robust data extraction tool using **Python** and **Selenium**.
-* Optimized scraping logic to handle dynamic content and paginated results for lead generation.
-
-#### [System File Automation](https://github.com/your-username/repo-name)
-* Created a **Python** utility to programmatically organize local directories based on metadata and file types.
-
----
-
 ### 📈 Leadership & Impact
 
 * **Data Engineering Co-Lead | AWS Cloud Club - PUP** (Dec 2025 – Present)
