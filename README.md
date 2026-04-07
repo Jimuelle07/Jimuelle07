@@ -16,18 +16,7 @@ Data-focused Computer Science student with a strong foundation in building autom
 **Software Development**
 * **Languages:** Python, C, C++, SQL, JavaScript (Node.js)
 * **Web Development:** HTML5, CSS3, Tailwind CSS
-
----
-
-### 📈 Leadership & Impact
-
-* **Data Engineering Co-Lead | AWS Cloud Club - PUP** (Dec 2025 – Present)
-  * Designing workshops and teaching cloud-native data solutions to the student community.
-* **Project Coordination Head | ARK (AcademiTech Research Knowledge)** (Aug 2025 – Present)
-  * Overseeing technical deliverables and cross-department alignment for research-driven projects.
-* **DataCamp Manager | Cloud Buddies Scholarship Program** (2025 – 2026)
-  * Facilitating data science education for students through scholarship management and community engagement.
-
+* 
 ---
 
 ### 📫 Connect with me
