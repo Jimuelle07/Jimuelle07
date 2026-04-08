@@ -16,7 +16,6 @@ Data-focused Computer Science student with a strong foundation in building autom
 **Software Development**
 * **Languages:** Python, C, C++, SQL, JavaScript (Node.js)
 * **Web Development:** HTML5, CSS3, Tailwind CSS
-* 
 ---
 
 ### 📫 Connect with me
