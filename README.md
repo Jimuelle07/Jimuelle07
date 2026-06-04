@@ -6,18 +6,10 @@ Data-focused Computer Science student with a strong foundation in building autom
 
 ---
 
-### 🛠️ Technical Arsenal
+i do a little bit of this, and a little bit of that
 
-**Data Engineering & Analytics**
-* **Modern Data Stack:** Airbyte, dbt, Snowflake, Databricks
-* **Cloud & Infrastructure:** AWS (EMR, VPC, DMS), MongoDB, ChromaDB (Vector DB)
-* **Automation & ETL:** Python (Selenium, BeautifulSoup), FastAPI
-
-**Software Development**
-* **Languages:** Python, C, C++, SQL, JavaScript (Node.js)
-* **Web Development:** HTML5, CSS3, Tailwind CSS
 ---
 
-### 📫 Connect with me
+### Connect with me
 * **LinkedIn:** [linkedin.com/in/jimuelle-patron](https://www.linkedin.com/in/jimuelle-patron-686454385/)
 * **Email:** [patronjimuelle26@gmail.com](mailto:patronjimuelle26@gmail.com)
