@@ -10,7 +10,33 @@ I design and deploy serverless cloud architectures, engineer robust data pipelin
 
 ## Tech Stack:
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS_LAMBDA-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DYNAMODB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white) ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MONGODB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Databricks](https://img.shields.io/badge/DATABRICKS-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![dbt Cloud](https://img.shields.io/badge/DBT_CLOUD-FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![Selenium](https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/TAILWINDCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![FastAPI](https://img.shields.io/badge/FASTAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white) ![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Stellar](https://img.shields.io/badge/STELLAR-000000?style=for-the-badge&logo=stellar&logoColor=white) ![Arduino](https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS_LAMBDA-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DYNAMODB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white) ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MONGODB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Databricks](https://img.shields.io/badge/DATABRICKS-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![dbt Cloud](https://img.shields.io/badge/DBT_CLOUD-FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![Selenium](https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/TAILWINDCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![FastAPI](https://img.shields.io/badge/FASTAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white) ![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Stellar](https://img.shields.io/badge/STELLAR-000000?style=for-the-badge&logo=stellar&logoColor=white) ![Arduino](https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![Photoshop](https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+<br>
+
+*05 — Skills & course completions*
+## Tools I reach for first.
+
+</div>
+
+| 📊 Data Engineering | ☁️ Cloud & Architecture | 💻 Frontend Development |
+| :--- | :--- | :--- |
+| **Pipelines:** AWS Lambda, EventBridge | **AWS Core:** CloudWatch, SSM, API Gateway | **Core:** JavaScript, HTML, CSS |
+| **Data Platforms:** Databricks, PostgreSQL | **Services:** Lambda, DynamoDB, EventBridge | **Frameworks:** React, Next.js |
+| **Transform:** dbt Cloud, pandas | **Architecture:** Serverless Pipelines | **Build & Style:** Tailwind CSS |
+| **Collection:** Scrapy, Selenium, BeautifulSoup | **AI Integration:** AWS Bedrock | **Design:** Canva, Photoshop |
+| **Databases:** MongoDB, SQL | | |
+
+| ⚙️ Backend & Systems | 💾 Databases & Storage | 🤖 AI & Specialized Systems |
+| :--- | :--- | :--- |
+| **Languages:** Python, C, C++, SQL | **Relational:** PostgreSQL, SQL | **AI Models:** AWS Bedrock, Ollama |
+| **APIs:** FastAPI, Flask | **NoSQL:** MongoDB, DynamoDB | **Retrieval:** LangChain, RAG |
+| **Web Scraping:** BeautifulSoup, Selenium, Scrapy | **Vector:** Local vector databases | **Blockchain:** Stellar, Soroban, Horizon |
+| | **Cloud Storage:** Databricks Lakehouse | **Health Tech:** Arduino, PULSO |
+
+<br>
+
+<div align="center">
 
 ## Connect With Me
 
