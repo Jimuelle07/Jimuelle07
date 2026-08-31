@@ -14,9 +14,6 @@ I design and deploy serverless cloud architectures, engineer robust data pipelin
 
 <br>
 
-*05 — Skills & course completions*
-## Tools I reach for first.
-
 ### Data Engineering
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
 ![EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge&logo=amazoneventbridge&logoColor=white)
