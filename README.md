@@ -68,6 +68,6 @@ I design and deploy serverless cloud architectures, engineer robust data pipelin
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patronjimuelle26@gmail.com)
 
 <br><br>
-*"no experience is useless."*
+*no experience is useless.*
 
 </div>
