@@ -6,62 +6,62 @@
 
 I design and deploy serverless cloud architectures, engineer robust data pipelines, and develop scalable full-stack software. My focus is on leveraging the Modern Data Stack and AI-driven automation to transform raw data into intelligent, production-ready applications. 
 
-[![View Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-transparent?style=for-the-badge&logo=vercel&logoColor=007ACC)](https://jimuelle-portfolio.vercel.app/)
+[![View Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jimuelle-portfolio.vercel.app/)
 
 ## Tech Stack
 
 ### Data Engineering
-![Lambda](https://img.shields.io/badge/Lambda-transparent?style=for-the-badge&logo=aws-lambda&logoColor=007ACC)
-![EventBridge](https://img.shields.io/badge/EventBridge-transparent?style=for-the-badge&logo=amazoneventbridge&logoColor=007ACC)
-![Databricks](https://img.shields.io/badge/Databricks-transparent?style=for-the-badge&logo=databricks&logoColor=007ACC)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-transparent?style=for-the-badge&logo=postgresql&logoColor=007ACC)
-![dbt](https://img.shields.io/badge/dbt-transparent?style=for-the-badge&logo=dbt&logoColor=007ACC)
-![Pandas](https://img.shields.io/badge/Pandas-transparent?style=for-the-badge&logo=pandas&logoColor=007ACC)
-![Selenium](https://img.shields.io/badge/Selenium-transparent?style=for-the-badge&logo=selenium&logoColor=007ACC)
-![Scrapy](https://img.shields.io/badge/Scrapy-transparent?style=for-the-badge&logo=scrapy&logoColor=007ACC)
-![MongoDB](https://img.shields.io/badge/MongoDB-transparent?style=for-the-badge&logo=mongodb&logoColor=007ACC)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge&logo=amazoneventbridge&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-000000?style=for-the-badge&logo=scrapy&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Cloud & Architecture
-![AWS](https://img.shields.io/badge/AWS-transparent?style=for-the-badge&logo=amazonwebservices&logoColor=007ACC)
-![Azure Functions](https://img.shields.io/badge/Azure_Functions-transparent?style=for-the-badge&logo=azurefunctions&logoColor=007ACC)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-transparent?style=for-the-badge&logo=amazoncloudwatch&logoColor=007ACC)
-![API Gateway](https://img.shields.io/badge/API_Gateway-transparent?style=for-the-badge&logo=amazonapigateway&logoColor=007ACC)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-transparent?style=for-the-badge&logo=amazon-dynamodb&logoColor=007ACC)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-transparent?style=for-the-badge&logo=amazonwebservices&logoColor=007ACC)
-![Vercel](https://img.shields.io/badge/Vercel-transparent?style=for-the-badge&logo=vercel&logoColor=007ACC)
-![Git](https://img.shields.io/badge/Git-transparent?style=for-the-badge&logo=git&logoColor=007ACC)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Frontend Development & Design
-![HTML5](https://img.shields.io/badge/HTML5-transparent?style=for-the-badge&logo=html5&logoColor=007ACC)
-![CSS3](https://img.shields.io/badge/CSS3-transparent?style=for-the-badge&logo=css3&logoColor=007ACC)
-![JavaScript](https://img.shields.io/badge/JavaScript-transparent?style=for-the-badge&logo=javascript&logoColor=007ACC)
-![TypeScript](https://img.shields.io/badge/TypeScript-transparent?style=for-the-badge&logo=typescript&logoColor=007ACC)
-![React](https://img.shields.io/badge/React-transparent?style=for-the-badge&logo=react&logoColor=007ACC)
-![Next.js](https://img.shields.io/badge/Next.js-transparent?style=for-the-badge&logo=nextdotjs&logoColor=007ACC)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-transparent?style=for-the-badge&logo=tailwind-css&logoColor=007ACC)
-![Canva](https://img.shields.io/badge/Canva-transparent?style=for-the-badge&logo=canva&logoColor=007ACC)
-![Photoshop](https://img.shields.io/badge/Photoshop-transparent?style=for-the-badge&logo=adobephotoshop&logoColor=007ACC)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ### Backend & Systems
-![Python](https://img.shields.io/badge/Python-transparent?style=for-the-badge&logo=python&logoColor=007ACC)
-![C](https://img.shields.io/badge/C-transparent?style=for-the-badge&logo=c&logoColor=007ACC)
-![C++](https://img.shields.io/badge/C%2B%2B-transparent?style=for-the-badge&logo=c%2B%2B&logoColor=007ACC)
-![SQL](https://img.shields.io/badge/SQL-transparent?style=for-the-badge&logo=postgresql&logoColor=007ACC)
-![FastAPI](https://img.shields.io/badge/FastAPI-transparent?style=for-the-badge&logo=fastapi&logoColor=007ACC)
-![Flask](https://img.shields.io/badge/Flask-transparent?style=for-the-badge&logo=flask&logoColor=007ACC)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### AI, Hardware & Decentralized
-![LangChain](https://img.shields.io/badge/LangChain-transparent?style=for-the-badge&logo=langchain&logoColor=007ACC)
-![Ollama](https://img.shields.io/badge/Ollama-transparent?style=for-the-badge&logo=ollama&logoColor=007ACC)
-![Stellar](https://img.shields.io/badge/Stellar-transparent?style=for-the-badge&logo=stellar&logoColor=007ACC)
-![Arduino](https://img.shields.io/badge/Arduino-transparent?style=for-the-badge&logo=arduino&logoColor=007ACC)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Stellar](https://img.shields.io/badge/Stellar-000000?style=for-the-badge&logo=stellar&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 <br>
 
 ## Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-transparent?style=for-the-badge&logo=vercel&logoColor=007ACC)](https://jimuelle-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-transparent?style=for-the-badge&logo=linkedin&logoColor=007ACC)](https://www.linkedin.com/in/jimuelle-patron-686454385/)
-[![Email](https://img.shields.io/badge/EMAIL-transparent?style=for-the-badge&logo=gmail&logoColor=007ACC)](mailto:patronjimuelle26@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jimuelle-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimuelle-patron-686454385/)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patronjimuelle26@gmail.com)
 
 <br><br>
 no experience is ever. useless.
