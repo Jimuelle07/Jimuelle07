@@ -1,4 +1,4 @@
-# Jimuelle Rodriguez Patron
+# Jimuelle R. Patron
 
 **Cloud, Data & Software Engineer | Computer Science Student @ Polytechnic University of the Philippines**
 
