@@ -66,6 +66,4 @@ I design and deploy serverless cloud architectures, engineer robust data pipelin
 <br><br>
 no experience is ever. useless.
 
-
-halata ba favorite color ko man?
 </div>
