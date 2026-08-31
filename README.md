@@ -63,7 +63,7 @@ I design and deploy serverless cloud architectures, engineer robust data pipelin
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-007ACC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimuelle-patron-686454385/)
 [![Email](https://img.shields.io/badge/EMAIL-007ACC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patronjimuelle26@gmail.com)
 
-<br
+<br>
 *no experience is ever. useless.*
 
 hatala ba favorite color ko?
