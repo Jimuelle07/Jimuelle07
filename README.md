@@ -20,11 +20,6 @@ I design and deploy serverless cloud architectures, engineer robust data pipelin
 **AI & Decentralized Systems:**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![Stellar](https://img.shields.io/badge/Stellar-000000?style=flat&logo=stellar&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
-## Featured Projects & Achievements
-* **Automated RAG Pipelines:** Built Python-based automation scripts for web scraping and data extraction, coupled with local vector databases and LangChain for Retrieval-Augmented Generation models.
-* **Stellaroid Earn:** Engineered a full-stack web application handling secure academic credential verification through integrated smart contracts on the Stellar network.
-* **PULSO (IoT Health Device):** Developed the embedded software for a predictive health monitoring system. Secured a Top 3 placement at the Arduino Day Philippines Arduinnovation competition.
-
 ## Connect With Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://jimuelle-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimuelle-patron-686454385/)
