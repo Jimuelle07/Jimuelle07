@@ -65,7 +65,7 @@ I design and deploy serverless cloud architectures, engineer robust data pipelin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimuelle-patron-686454385/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patronjimuelle26@gmail.com)
 
-<br><br>
+<br>
 no experience is ever. useless.
 
 </div>
