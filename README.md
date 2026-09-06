@@ -59,7 +59,6 @@ I design and deploy serverless cloud architectures, engineer robust data pipelin
 ![Stellar](https://img.shields.io/badge/Stellar-000000?logo=stellar&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 
-<br>
 ## Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://jimuelle-portfolio.vercel.app/)
