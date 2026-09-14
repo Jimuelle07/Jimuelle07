@@ -8,7 +8,7 @@ I design and deploy serverless cloud architectures, engineer robust data pipelin
 
 [![View Portfolio](https://img.shields.io/badge/View%20Portfolio-000000?logo=vercel&logoColor=white)](https://jimuelle-portfolio.vercel.app/)
 
-### Tech Stack
+### Tech Stack (outdated)
 <hr>
 
 #### Data Engineering
