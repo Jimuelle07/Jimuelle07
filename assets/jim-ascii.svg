@@ -3,7 +3,7 @@
 text{font:bold 11px 'Courier New',Consolas,monospace;white-space:pre}
 .r{opacity:0;animation:in .5s ease-out forwards}
 @keyframes in{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}
-.scan{animation:scan 3.5s linear 2.5s infinite;opacity:0}
+.scan{animation:scan 8s linear 2.5s infinite;opacity:0}
 @keyframes scan{0%{transform:translateY(0);opacity:0}8%{opacity:.9}92%{opacity:.9}100%{transform:translateY(542px);opacity:0}}
 .glow{animation:glow 3s ease-in-out infinite}
 @keyframes glow{0%,100%{stroke-opacity:.45}50%{stroke-opacity:1}}
