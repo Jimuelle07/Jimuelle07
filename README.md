@@ -6,7 +6,7 @@
 
 <b>Data, Cloud and Software Engineer</b>
 
-<em>"I know I can, and I will."</em>
+<em>I know I can, and I will.</em>
 
 <h4>Cloud</h4>
 
