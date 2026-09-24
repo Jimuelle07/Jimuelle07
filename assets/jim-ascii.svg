@@ -9,8 +9,8 @@ text{font:bold 11px 'Courier New',Consolas,monospace;white-space:pre}
 @keyframes glow{0%,100%{stroke-opacity:.45}50%{stroke-opacity:1}}
 </style>
 <defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F4C430" stop-opacity="0"/><stop offset=".5" stop-color="#F4C430" stop-opacity=".35"/><stop offset="1" stop-color="#F4C430" stop-opacity="0"/></linearGradient></defs>
-<rect width="510" height="542" rx="14" fill="#0B0B0D"/>
-<rect class="glow" x="1.5" y="1.5" width="507" height="539" rx="13" fill="none" stroke="#A4161A" stroke-width="3"/>
+<rect width="510" height="542" fill="#0B0B0D"/>
+<rect class="glow" x="1.5" y="1.5" width="507" height="539" fill="none" stroke="#A4161A" stroke-width="3"/>
 <text class="r" style="animation-delay:0.000s" x="24" y="35.5" textLength="462.0" lengthAdjust="spacing"><tspan fill="#A4161A">                               </tspan><tspan fill="#AD291C">..</tspan><tspan fill="#A4161A">   </tspan><tspan fill="#B63D1F">:::</tspan><tspan fill="#AD291C">.</tspan><tspan fill="#A4161A">                              </tspan></text>
 <text class="r" style="animation-delay:0.090s" x="24" y="47.0" textLength="462.0" lengthAdjust="spacing"><tspan fill="#A4161A">                             </tspan><tspan fill="#AD291C">.....</tspan><tspan fill="#B63D1F">:</tspan><tspan fill="#AD291C">.....</tspan><tspan fill="#B63D1F">:</tspan><tspan fill="#BF5021">--</tspan><tspan fill="#A4161A">                           </tspan></text>
 <text class="r" style="animation-delay:0.180s" x="24" y="58.5" textLength="462.0" lengthAdjust="spacing"><tspan fill="#A4161A">                            </tspan><tspan fill="#AD291C">.............</tspan><tspan fill="#B63D1F">:</tspan><tspan fill="#D07726">+</tspan><tspan fill="#C86324">=</tspan><tspan fill="#B63D1F">:</tspan><tspan fill="#A4161A">                         </tspan></text>
